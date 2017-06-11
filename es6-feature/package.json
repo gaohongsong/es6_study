@@ -1,0 +1,14 @@
+{
+  "name": "es6-feature",
+  "version": "1.0.0",
+  "description": "test es6",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "miya",
+  "license": "ISC"
+}
