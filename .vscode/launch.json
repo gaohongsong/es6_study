@@ -8,7 +8,8 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceRoot}/es6-feature/let_const.js"
+            // "program": "${workspaceRoot}/es6-feature/let_const.js"
+            "program": "${workspaceRoot}/es6-feature/var_assign.js"
         }
     ]
 }
