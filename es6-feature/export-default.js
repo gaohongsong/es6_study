@@ -28,3 +28,4 @@ export default function () {
 // // main.js
 // import MyClass from 'MyClass';
 // let o = new MyClass();
+

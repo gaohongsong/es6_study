@@ -170,3 +170,47 @@
     arr1.push(...arr3)
     console.log(arr1)
 }
+
+// 只要参数使用了默认值、解构赋值、或者扩展运算符，就不能显式指定严格模式
+{
+    function doSomething(a, b) {
+        'use strict';
+        // code
+    }
+    // 报错
+    // function doSomething(a, b = a) {
+    //     'use strict';
+    //     // code
+    // }
+
+    // // 报错
+    // const doSomething = function ({ a, b }) {
+    //     'use strict';
+    //     // code
+    // };
+
+    // // 报错
+    // const doSomething = (...a) => {
+    //     'use strict';
+    //     // code
+    // };
+
+    // const obj = {
+    //     // 报错
+    //     doSomething({ a, b }) {
+    //         'use strict';
+    //         // code
+    //     }
+    // };
+}
+
+// name 属性
+{
+    function fuckit() {
+    }
+    console.log(fuckit.name);
+
+    var ff = function () { };
+    console.log(ff.name);
+    (new Function).name // "anonymous"   
+}
