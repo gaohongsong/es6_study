@@ -21,3 +21,6 @@ ____________________________
 
 ## 参考文档
 1. [ECMAScript 6 入门](http://es6.ruanyifeng.com)
+2. [es6features](https://github.com/lukehoban/es6features#readme)
+3. [Learn ES2015](http://babeljs.cn/docs/learn-es2015/)
+
