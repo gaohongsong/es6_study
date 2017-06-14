@@ -25,7 +25,13 @@
 - [x] [set&map]](http://es6.ruanyifeng.com/#docs/set-map)
     + set.add/keys/values/entries/has/forEach
     + map.set/get/keys/values/entries/clear/has/forEach
-- [ ]
+- [x] [`Iterator`和`for...of`](http://es6.ruanyifeng.com/#docs/iterator)
+    + 解析赋值
+    + 扩展运算符...
+    + yield *
+    + `for...of`
+    + `Array.from`
+    + `new Set([1,2,3,4])`
 ____________________________
 **注：**
 - [ ] 跳过
