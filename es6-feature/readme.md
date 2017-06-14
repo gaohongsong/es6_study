@@ -1,6 +1,5 @@
 # es6的入门学习
-&emsp;&emsp;本来是准备看vue，后来从vue文档中看到node和npm，然后发现node模块中的写法很陌生，后来才意识到这是es6的写法，     
-故找到一篇在线[ECMAScript 6 入门](http://es6.ruanyifeng.com)学习下，并在github上创建了[学习工程](https://github.com/gmaclinuxer/vue_taste/tree/master/es6-feature)，便于分享和回顾。
+&emsp;&emsp;本来是准备看vue，后来从vue文档中看到node和npm，然后发现node模块中的写法很陌生，后来才意识到这是es6的写法，故找到一篇在线[ECMAScript 6 入门](http://es6.ruanyifeng.com)学习下，并在github上创建了[学习工程](https://github.com/gmaclinuxer/vue_taste/tree/master/es6-feature)，便于分享和回顾。
 
 ## 关注点
 
