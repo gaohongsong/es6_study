@@ -12,7 +12,20 @@
     + [模板字符串](http://es6.ruanyifeng.com/#docs/string#模板字符串)
     + [Array-from](http://es6.ruanyifeng.com/#docs/array#Array-from)
     + [函数参数的默认值](http://es6.ruanyifeng.com/#docs/function#函数参数的默认值)
-- [ ] empty
+- [x] [function]](http://es6.ruanyifeng.com/#docs/function)
+    + **函数参数的默认值**
+    + **rest参数**
+    + ~~扩展运算符~~
+    + ~~严格模式~~
+    + name属性~~
+    + **箭头函数**
+    + **绑定this**
+    + ~~尾调用优化~~
+    + ~~函数参数的尾逗号~~
+- [x] [set&map]](http://es6.ruanyifeng.com/#docs/set-map)
+    + set.add/keys/values/entries/has/forEach
+    + map.set/get/keys/values/entries/clear/has/forEach
+- [ ]
 ____________________________
 **注：**
 - [ ] 跳过
