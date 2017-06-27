@@ -10,6 +10,3 @@ taste node awesome things
 
 # npm
 taste npm awesome things
-
-# vue
-taste vue basic feature
